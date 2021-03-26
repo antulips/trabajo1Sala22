@@ -1,1 +1,1 @@
-console.log("¡Nos vemos!");
+console.log("¡Nos vemos más tarde por GitHub");
