@@ -1,2 +1,1 @@
-console.log("Hola mundo");
-console.log("¡Es magia!");
+console.log("Hola mundo, haciendo magia!!!");
